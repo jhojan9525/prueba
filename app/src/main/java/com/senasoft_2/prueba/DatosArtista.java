@@ -9,5 +9,9 @@ public class DatosArtista extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.datos_artista);
+
+
+        //exito//
+
     }
 }
