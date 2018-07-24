@@ -9,6 +9,9 @@ public class DatosArtista extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.datos_artista);
-//este archivo fue editado por jhojan para lograr saber si esta funcionado la conexion//
+
+
+        //este mensaje fue editaado por jhojan para verificar la conexion en Github//
+
     }
 }
